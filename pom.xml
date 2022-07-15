@@ -1,7 +1,7 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany.app</groupId>
-    <artifactId>my-app</artifactId>
+    <artifactId>toledo_chess</artifactId>
     <version>1</version>
     <properties>
         <sonar.organization>simologos</sonar.organization>
