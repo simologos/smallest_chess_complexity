@@ -4,6 +4,7 @@
     <artifactId>toledo_chess</artifactId>
     <version>1</version>
     <properties>
+        <maven.compiler.source>11</maven.compiler.source>
         <sonar.organization>simologos</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
